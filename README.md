@@ -25,7 +25,7 @@ Unable to resolve module XXX from<br/>
 
 ##效果
 ***
-![iOS效果图](./ios.png  =300x)
+![iOS效果图](https://github.com/ZYHshao/ReactNative-ExchangeRate/blob/master/ios.png  =300x)
 <br/>
 <br/>
-![安卓效果图](./android.png  =300x)
+![安卓效果图](https://github.com/ZYHshao/ReactNative-ExchangeRate/blob/master/ios.png  =300x)
